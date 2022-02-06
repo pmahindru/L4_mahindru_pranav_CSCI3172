@@ -28,6 +28,6 @@ If in completing your lab / assignment / project you used any interpretation of 
 
 ### File Name
 
-All files code is mine nothing is taken from the outside and i didn't reference anything from the outside other than i just saw the lab 4 document and recording to understand more :).
+All code is mine nothing is taken from the outside and i didn't take any reference/code anything from the outside other than i just saw the lab 4 document and recording to understand more :).
 
 *Repeat as needed*
