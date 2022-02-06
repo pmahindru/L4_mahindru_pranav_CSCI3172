@@ -1,0 +1,58 @@
+/* This is my own css */
+
+/* main background color */
+body{
+    background-color: black;
+}
+
+/* part 1 for the select and the div  */
+#colorOfDiv,
+#week{
+    background-color: orange;
+}
+
+#colorOfDiv{
+    text-align: center;
+    padding: 10px;
+    margin: 20px;
+}
+
+#week{
+    padding: 10px;
+    font-size: 30px;
+    margin: 20px;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    color: wheat;
+    font-size: 40px;
+}
+
+/* Part 2 for the form input and label */
+form{
+    background-color: orange;
+    text-align: center;
+    padding: 10px;
+    margin: 20px;
+}
+
+h2{
+    text-align: center;
+    color: wheat;
+    font-size: 30px;
+}
+
+label{
+    color: black;
+}
+
+input,
+label,
+button{
+    padding: 10px;
+    font-size: 30px;
+    margin: 10px;
+    text-align: center;
+}
